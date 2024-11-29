@@ -1,7 +1,13 @@
 # R8QE's Captcha Generator!
 The fastest and simplest captcha generator!<br>
+When you download delete these : images folder, license file, readme file, things in captcha folder.
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Accomplishment](https://img.shields.io/badge/Fastest_Gen-5_per_0.01s-green)]()<br>
+<br>
+<br>
+# Example! <br>
+<br>
+![App Screenshot](https://github.com/4Cafes/captcha-gen/blob/main/captchas/Y8Q1GPTV.png?raw=true)<br>
 <br>
 # Ease of use! <br>
 Our generator names each file with what the captcha says. So your code can just read the file name to know what the captcha says.<br>
@@ -20,6 +26,8 @@ There is a batch file to delete all the captchas automatically.<br>
 ![App Screenshott](https://github.com/4Cafes/captcha-gen/blob/main/images/Screenshot%202024-11-29%20145838.png?raw=true)<br>
 <br>
 # Simple Instructions! <br>
+**GO TO RELEASES AND DOWNLOAD ONE OF THE ZIPS OR RARS AND EXTRACT (STILL SOURCE CODE)**
+-
 Step 1 : Run start.bat to install all of the pip modules you need for our python script <br>
 Step 2 : When it asks if you want to run generator say Y <br>
 Step 3 : When generator loads enter the amount you want (0=Infinite) <br>
