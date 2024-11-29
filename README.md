@@ -6,4 +6,9 @@ The fastest and simplest captcha generator!<br>
 # Ease of use! <br>
 Our generator names each file with what the captcha says. So your code can just read the file name to know what the captcha is!<br>
 <br>
-![App Screenshot](https://github.com/4Cafes/captcha-gen/blob/main/images/Screenshot%202024-11-29%20143752.png?raw=true)
+![App Screenshot](https://github.com/4Cafes/captcha-gen/blob/main/images/Screenshot%202024-11-29%20143752.png?raw=true)<br>
+<br>
+We provide a .bat file to download all the needed libraries and to start it!<br>
+<br>
+![App Screenshott](https://github.com/4Cafes/captcha-gen/blob/main/images/Screenshot%202024-11-29%20144720.png?raw=true)<br>
+<br>
