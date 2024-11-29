@@ -4,7 +4,6 @@ When you download delete these : images folder, license file, readme file, thing
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Accomplishment](https://img.shields.io/badge/Fastest_Gen-5_per_0.01s-green)]()<br>
 <br>
-<br>
 # Example! <br>
 <br>
 ![App Screenshot](https://github.com/4Cafes/captcha-gen/blob/main/captchas/Y8Q1GPTV.png?raw=true)<br>
