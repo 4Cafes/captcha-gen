@@ -6,7 +6,6 @@ When you download delete these : images folder, license file, readme file, thing
 <br>
 # Example! <br>
 <br>
-![App Screenshot](https://github.com/4Cafes/captcha-gen/blob/main/captchas/Y8Q1GPTV.png?raw=true)<br>
 <br>
 # Ease of use! <br>
 Our generator names each file with what the captcha says. So your code can just read the file name to know what the captcha says.<br>
