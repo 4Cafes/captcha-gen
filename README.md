@@ -5,4 +5,5 @@ The fastest and simplest captcha generator!<br>
 <br>
 # Ease of use! <br>
 Our generator names each file with what the captcha says. So your code can just read the file name to know what the captcha is!<br>
+<br>
 ![App Screenshot](https://github.com/4Cafes/captcha-gen/blob/main/images/Screenshot%202024-11-29%20143752.png?raw=true)
