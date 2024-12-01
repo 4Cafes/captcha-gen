@@ -2,7 +2,7 @@
 The fastest and simplest captcha generator!<br>
 When you download delete these : images folder, license file, readme file, things in captcha folder. <br>
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Accomplishment](https://img.shields.io/badge/Fastest_Gen-87_per_1m-green)]()<br>
+[![Accomplishment](https://img.shields.io/badge/Fastest_Gen-87_per_1_minute-green)]()<br>
 <br>
 # Example!
 ![App Screenshot](https://github.com/r8qe/captcha-gen/blob/main/captchas/Y8Q1GPTV.png?raw=true)<br>
